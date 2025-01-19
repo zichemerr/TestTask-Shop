@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a300beafe79cea24286fcda6c0f22a9c, type: 3}
+  m_Name: Offer 1
+  m_EditorClassIdentifier: 
+  <Offer>k__BackingField:
+    <Title>k__BackingField: Title
+    <Description>k__BackingField: Description
+    <Resources>k__BackingField:
+    - <Sprite>k__BackingField: {fileID: 21300000, guid: 959fd9e4c31b6f044aa0d00cede77574, type: 3}
+      <Count>k__BackingField: 25
+    - <Sprite>k__BackingField: {fileID: 21300000, guid: 17d06f4629f82cc498ecaba9b5d9f1dc, type: 3}
+      <Count>k__BackingField: 432
+    - <Sprite>k__BackingField: {fileID: 21300000, guid: bc64e4323fc0fef42bb6fe4a3c05e981, type: 3}
+      <Count>k__BackingField: 43
+    - <Sprite>k__BackingField: {fileID: 21300000, guid: bc64e4323fc0fef42bb6fe4a3c05e981, type: 3}
+      <Count>k__BackingField: 32
+    - <Sprite>k__BackingField: {fileID: 21300000, guid: 959fd9e4c31b6f044aa0d00cede77574, type: 3}
+      <Count>k__BackingField: 31
+    <Sprite>k__BackingField: {fileID: 21300000, guid: 959fd9e4c31b6f044aa0d00cede77574, type: 3}
+    <Price>k__BackingField: 2.45
+    <Discount>k__BackingField: 0.2
