@@ -38,7 +38,7 @@ namespace Project.OfferSystem
         {
             _title.text = offer.Title;
             _description.text = offer.Description;
-            _image.sprite = offer.Sprite;
+            _image.sprite = new SpriteLoader().Load(offer.SpriteId);
 
             for (int i = 0; i < _resourceView.Length; i++)
             {

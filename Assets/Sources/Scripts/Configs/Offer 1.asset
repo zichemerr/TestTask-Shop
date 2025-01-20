@@ -16,16 +16,16 @@ MonoBehaviour:
     <Title>k__BackingField: Title
     <Description>k__BackingField: Description
     <Resources>k__BackingField:
-    - <Sprite>k__BackingField: {fileID: 21300000, guid: 959fd9e4c31b6f044aa0d00cede77574, type: 3}
+    - <SpriteId>k__BackingField: Darkk
       <Count>k__BackingField: 25
-    - <Sprite>k__BackingField: {fileID: 21300000, guid: 17d06f4629f82cc498ecaba9b5d9f1dc, type: 3}
+    - <SpriteId>k__BackingField: SimpleTree
       <Count>k__BackingField: 432
-    - <Sprite>k__BackingField: {fileID: 21300000, guid: bc64e4323fc0fef42bb6fe4a3c05e981, type: 3}
+    - <SpriteId>k__BackingField: Wire
       <Count>k__BackingField: 43
-    - <Sprite>k__BackingField: {fileID: 21300000, guid: bc64e4323fc0fef42bb6fe4a3c05e981, type: 3}
+    - <SpriteId>k__BackingField: SimpleTree
       <Count>k__BackingField: 32
-    - <Sprite>k__BackingField: {fileID: 21300000, guid: 959fd9e4c31b6f044aa0d00cede77574, type: 3}
+    - <SpriteId>k__BackingField: Hedgehoge
       <Count>k__BackingField: 31
-    <Sprite>k__BackingField: {fileID: 21300000, guid: 959fd9e4c31b6f044aa0d00cede77574, type: 3}
-    <Price>k__BackingField: 2.45
+    <SpriteId>k__BackingField: GiftRed
+    <Price>k__BackingField: 99.99
     <Discount>k__BackingField: 0.2

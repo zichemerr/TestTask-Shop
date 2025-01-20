@@ -31,7 +31,7 @@ namespace Project.Boot
         {
             _startingController.Started -= OnStarted;
             _startingController.Dispose();
-            _offerController.Dispose();
+            _offerController?.Dispose();
         }
 
         private void OnStarted()

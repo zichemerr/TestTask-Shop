@@ -12,7 +12,7 @@ namespace Project.OfferSystem
         public void Draw(Resource resource)
         {
             gameObject.SetActive(true);
-            _image.sprite = resource.Sprite;
+            _image.sprite = new SpriteLoader().Load(resource.SpriteId);
             _amount.text = resource.Count.ToString();
         }
 
